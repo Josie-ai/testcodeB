@@ -1,6 +1,0 @@
-public class testNew{
-    public static main(args[]){
-        System.out.printIn("Hello!");
-        System.out.printIn("Hello2");
-    }
-}
